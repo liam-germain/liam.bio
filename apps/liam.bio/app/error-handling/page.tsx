@@ -23,7 +23,7 @@ export default function Page() {
         <li>
           Trying navigation pages and triggering an error in nested layouts.
         </li>
-        <li>Note: Error boundaries don't yet work in development.</li>
+        <li>Note: Error boundaries dont yet work in development.</li>
       </ul>
 
       <div>
