@@ -1,4 +1,4 @@
-import BuggyButton from '@/ui/BuggyButton';
+// import BuggyButton from '@/ui/BuggyButton';
 
 export default function Page() {
   return (
@@ -10,7 +10,7 @@ export default function Page() {
           </div>
         </div>
 
-        <BuggyButton />
+        {/* <BuggyButton /> */}
       </div>
 
       <ul className="list-disc space-y-2 pl-4 text-sm text-zinc-300">
