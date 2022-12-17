@@ -5,7 +5,7 @@ import Link from 'next/link';
 export default function Page() {
   return (
     <div>
-      hello
+      hello, I am liam germain
     </div>
   );
 }

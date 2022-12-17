@@ -1,7 +1,7 @@
-import '@/styles/dist.css';
+// import '@/styles/dist.css';
 import React from 'react';
-import AddressBar from '@/ui/AddressBar';
-import GlobalNav from './GlobalNav';
+// import AddressBar from '@/ui/AddressBar';
+// import GlobalNav from './GlobalNav';
 
 export default function RootLayout({
   children,
