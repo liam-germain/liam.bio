@@ -1,4 +1,4 @@
-import React, { use } from 'react';
+import React from 'react';
 // import { fetchCategories } from '@/lib/getCategories';
 // import ClickCounter from '@/ui/ClickCounter';
 // import CategoryNav from './CategoryNav';
