@@ -7,7 +7,7 @@ export default function Page() {
     <div>
       hello, I am liam germain. I hope this fixes the website. try again and again
       <h1>
-        liam germian
+        hi, liam germian
       </h1>
     </div>
   );
