@@ -1,6 +1,6 @@
 {
-  "name": "liam.bio",
-  "version": "0.0.0",
+  "name": "liam.bio_mono",
+  "version": "0.0.1",
   "private": true,
   "workspaces": [
     "apps/*",
