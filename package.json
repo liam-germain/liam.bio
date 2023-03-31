@@ -20,6 +20,9 @@
   "engines": {
     "node": ">=14.0.0"
   },
-  "dependencies": {},
+  "dependencies": {
+    "@calcom/embed-react": "^1.0.10",
+    "@vercel/analytics": "^0.1.11"
+  },
   "packageManager": "npm@8.1.2"
 }
