@@ -6,4 +6,5 @@ This is the official monorepo for the liam.bio website. It is my personal websit
 - liam.bio
 
 ## Authors
-@liamgermain
+- Liam Germain [Github](https://github.com/liam-germain) | [Gitlab](https://gitlab.com/liam_germain)
+
