@@ -1,6 +1,5 @@
-import Video from 'next-video'
-import locol_promo from '@videos/locol_promo.mp4'
+import Video from 'next-video';
 
-export default function Home() {
-    return <Video src={locol_promo} />
+export default function Page() {
+    return <Video src='https://stream.mux.com/c2gxBhVwuFIHIec2Y5A35UJIenIJ02CBQpqDdYGbmOT8.m3u8' style={{ maxWidth: '42rem' }} />
 }
