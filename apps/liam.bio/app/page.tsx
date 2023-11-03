@@ -69,7 +69,7 @@ export default function Page() {
             </Box>
 
             <div />
-            <Box link="https://4xp.org" hoverEffect className="flex items-center justify-center lg:w-full">
+            <Box link="/projects" hoverEffect className="flex items-center justify-center lg:w-full">
               <h1 className="text-4xl font-bold">4XP Holdings</h1>
             </Box>
 

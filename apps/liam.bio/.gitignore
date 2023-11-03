@@ -39,3 +39,13 @@ yarn-error.log*
 .turbo
 .vscode
 styles/dist.css
+videos/*
+videos/!*.json
+videos/!*.js
+videos/!*.ts
+public/_next-video
+videos/*
+videos/!*.json
+videos/!*.js
+videos/!*.ts
+public/_next-video
