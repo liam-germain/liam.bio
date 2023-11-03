@@ -56,7 +56,7 @@ export default function Page() {
             <Box>
               <h1 className="text-3xl font-bold">Hi, I'm Liam Germain</h1>
               <p>
-                I am currently a senior at the University of Pennsylvania and I am studying Economics. I love to build.
+                I am currently working at SimpliKeys. I love to build.
               </p>
             </Box>
             <Box>
