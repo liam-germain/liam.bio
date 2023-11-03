@@ -54,9 +54,9 @@ export default function Page() {
         <div className="grid grid-cols-1 lg:grid-cols-12 gap-4 max-w-screen-lg">
           <div className="lg:col-span-7 lg:space-y-4">
             <Box>
-              <h1 className="text-3xl font-bold">Hi, I'm Liam Germain</h1>
+              <h1 className="text-3xl font-bold">Hi, Im Liam Germain</h1>
               <p>
-                I am currently a senior at the University of Pennsylvania and I am studying Economics. I love to build.
+                I am currently working at SimpliKeys. I love to build.
               </p>
             </Box>
             <Box>
