@@ -76,7 +76,7 @@ export default function Page() {
             <div />
             <Box className="flex items-center justify-center lg:w-full">
               <div className="flex items-center justify-center space-x-4 mt-2">
-                <a href="https://twitter.com/lmg_xyz" target="_blank" rel="noopener noreferrer" className="px-4 py-2 bg-blue-600 text-white font-bold rounded">Twitter</a>
+                <a href="https://x.com/liamail" target="_blank" rel="noopener noreferrer" className="px-4 py-2 bg-blue-600 text-white font-bold rounded">Twitter</a>
                 <a href="https://linkedin.com/in/liamgermain" target="_blank" rel="noopener noreferrer" className="px-4 py-2 bg-blue-400 text-white font-bold rounded">LinkedIn</a>
                 <a href="https://github.com/liam-germain" target="_blank" rel="noopener noreferrer" className="px-4 py-2 bg-gray-700 text-white font-bold rounded">GitHub</a>
               </div>
