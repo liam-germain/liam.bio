@@ -8,5 +8,5 @@ const nextConfig = {
   //   appDir: true,
   // },
 };
-
+//module.exports = nextConfig;
 module.exports = withNextVideo(nextConfig);
