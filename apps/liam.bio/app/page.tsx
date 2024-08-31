@@ -56,7 +56,9 @@ export default function Page() {
             <Box>
               <h1 className="text-3xl font-bold">Hi, Im Liam Germain</h1>
               <p>
-                I am currently working at SimpliKeys. I love to build. The future is incredibly exciting and weird. 
+
+                I am currently working at SimpliKeys. I love to build. The future is incredibly exciting and weird. V2 of this site is coming soon. This one is a bit of a mess and is not good.
+
               </p>
             </Box>
             <Box>
