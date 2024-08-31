@@ -1,5 +1,7 @@
 # Liam.bio Monorepo
 
+## THIS REPO WILL CHANGE VERY SOON. THIS SITE SUCKS AND NEEDS AN UPGRADE.
+
 This is the official monorepo for the liam.bio website. It is my personal website that I initially purchased in November of 2022.
 
 ## What's inside?
